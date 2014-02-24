@@ -1,0 +1,15 @@
+//An easier mixin to prefix the username
+// Three arguments: the prefix (such as @, + etc.), the background color, and the text color itself
+@mixin prefix($prefix: "", $bg: inherit, $color: inherit){
+	&:hover{
+		~ .uniformity__username{
+			@content;
+			background: $bg;
+			color: $color;
+
+			&:before{
+				content: $prefix;
+			}
+		}
+	}
+}

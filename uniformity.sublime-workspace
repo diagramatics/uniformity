@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sidebar",
+				"sidebarFunctions"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"cate",
+				"category-dropdown"
+			],
+			[
+				"post-nati",
+				"post-navigation-link"
+			],
+			[
+				"ta",
+				"ta:c	text-align:center"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 78.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"line",
+				"Line Ending: Unix"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pakage",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/easyPHP/data/localweb/projects/trial/js/bootstrap-formhelpers.min.js",
+		"/E/easyPHP/data/localweb/projects/trial/css/bootstrap-formhelpers.min.css",
+		"/E/easyPHP/data/localweb/projects/trial/css/bootstrap-formhelpers.min.js",
+		"/E/easyPHP/data/localweb/projects/trial/js/bootstrap-formhelpers.js",
+		"/E/easyPHP/data/localweb/projects/trial/css/jasny-bootstrap.css",
+		"/E/easyPHP/data/localweb/projects/trial/css/style.css",
+		"/E/easyPHP/data/localweb/projects/trial/js/main.js",
+		"/E/easyPHP/data/localweb/projects/trial/js/selectize.min.js",
+		"/E/easyPHP/data/localweb/projects/trial/js/.password-strength-checker.js~",
+		"/E/easyPHP/data/localweb/projects/trial/fonts/glyphicons-halflings-regular.svg",
+		"/E/easyPHP/data/localweb/projects/trial/scss/style.scss",
+		"/E/easyPHP/data/localweb/projects/trial/css/bootstrap.min.css",
+		"/E/easyPHP/data/localweb/projects/trial/ciao.html",
+		"/E/easyPHP/data/localweb/projects/trial/jasny-bootstrap.css",
+		"/E/easyPHP/data/localweb/projects/trial/js/jasny-bootstrap.js",
+		"/E/easyPHP/data/localweb/projects/trial/jasny-bootstrap.js",
+		"/E/easyPHP/data/localweb/projects/trial/js/holder.js",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/LineEndings/LineEndings.sublime-settings",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/diagramatica/assets/img/dgr.svg",
+		"/E/Artworks/New Diagram Logo/dgr.svg",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgrblog/scss/_media.scss",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgrblog/style.css",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgrblog/diagramatiblog/config.rb",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgrblog/config.rb",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgrblog/.gitignore",
+		"/E/easyPHP/data/localweb/projects/pssi/config.rb",
+		"/E/easyPHP/data/localweb/projects/pssi/.gitignore",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/css/style.css",
+		"/E/easyPHP/data/localweb/projects/pssi/Gruntfile.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Steven/Documents/pseudocode.txt",
+		"/E/easyPHP/data/localweb/projects/pssi/sftp-config.json",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/scss/entypo/_entypo-vars.scss",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/scss/entypo/_entypo.scss",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/scss/entypo/_font-mixins.scss",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/scss/font-awesome/_variables.scss",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/js/main.js",
+		"/E/easyPHP/data/localweb/projects/pssi/package.json",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/js/jquery.js",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/js/jquery.min.js",
+		"/E/easyPHP/data/localweb/projects/pssi/dist/js/script.min.js",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/img/joko-driyono.jpg",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/scss/_styling.scss",
+		"/E/easyPHP/data/localweb/projects/pssi/index.html",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/scss/_grid",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/img/logo.png",
+		"/E/easyPHP/data/localweb/projects/pssi/assets/font/luzhpbro-webfont.eot",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/E/easyPHP/data/localweb/projects/pssi/pssi.sublime-project",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/index.html",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/functions.php",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/Gruntfile.js",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/diagramatica/Gruntfile.js",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/package.json",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/config.rb",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/style.css",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/assets/scss/style.scss",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/assets/scss/_base.scss",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/templates/front-page.php",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/assets/scss/_grid.scss",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/assets/scss/_variables.scss",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/assets/scss/fontawesome/_variables.scss",
+		"/C/Users/Steven/AppData/Local/Temp/Temp1_font-awesome-4.0.3.zip/font-awesome-4.0.3/scss/font-awesome.scss",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/index.php",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/scss/screen.scss",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/scss/theme/_frame.scss",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/scss/theme/_print.scss",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/scss/theme/_base.scss",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/scss/patterns/_reset.scss",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/assets/scss/chopstick/_settings.scss",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/dgr2/assets/scss/chopstick/theme/_base.scss",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/_site/index.html",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/Guardfile",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/styleguide.html",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/Gemfile",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/config.rb",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/index.html",
+		"/C/Users/Steven/Downloads/chopstick-boilerplate-master/scss/theme/modules/_grid.scss",
+		"/C/Program Files/Ruby200-x64/devkit/config.yml",
+		"/C/Users/Steven/AppData/Local/Temp/Temp1_chopstick-boilerplate-master.zip/chopstick-boilerplate-master/scss/_settings.scss",
+		"/C/Users/Steven/AppData/Local/Temp/Temp1_chopstick-boilerplate-master.zip/chopstick-boilerplate-master/scss/screen.scss",
+		"/E/easyPHP/data/localweb/ghost/package.json",
+		"/E/easyPHP/data/localweb/ghost/Gruntfile.js",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/diagramatica/js/libs/skip-link-focus-fix.js",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/diagramatica/npm-debug.log",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/diagramatica/package.json",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/Gruntfile.js",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/diagramatica/js/customizer.js",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/diagramatica/functions.php",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/diagramatica/inc/customizer.php",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/diagramatica/style.css",
+		"/E/easyPHP/data/localweb/wordpress/wp-config.php",
+		"/E/easyPHP/data/localweb/wordpress/wp-content/themes/twentythirteen/css/ie.css",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/Colorsublime-Themes/Tomorrow-Night-Eighties.tmTheme",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/css/scss/style.scss",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/credits.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post4.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post8.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post9.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/js/script.js",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post5.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post7.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post6.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post3.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post2.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post11.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post12.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post10.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/posts/post1.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/indexes/page4.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/indexes/page3.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/indexes/page1.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/pages/indexes/page2.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/inc/share.html",
+		"/E/easyPHP/data/localweb/wordpress/.htaccess",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/inc/sidebar.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/css/scss/_animation.scss",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/inc/header.html",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/css/style.css",
+		"/E/easyPHP/data/localweb/assignments/bcal.org/js/js/script.js",
+		"/E/easyPHP/data/localweb/projects/wordpress/wp-content/themes/bcaltheme/library/theme-config.php",
+		"/E/easyPHP/data/localweb/projects/wordpress/wp-content/themes/bcaltheme/package.json",
+		"/E/easyPHP/data/localweb/projects/wordpress/wp-content/themes/bcaltheme/functions.php",
+		"/E/easyPHP/data/localweb/projects/wordpress/wp-content/themes/bcaltheme/header.php",
+		"/E/easyPHP/data/localweb/projects/wordpress/wp-content/themes/bcaltheme/sidebar.php",
+		"/E/easyPHP/data/localweb/projects/wordpress/wp-content/themes/bcaltheme/css/scss/bootstrap.scss"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"removeClass('saved')",
+			"addClass('saving');",
+			"text",
+			"div",
+			"settings-section-title",
+			"h2 class=\"profile-section-title",
+			"<div class=\"title\">",
+			"div",
+			"col-sm-2 col-md-2 col-lg-2",
+			"btn-primary col-xs-1",
+			"col-xs-1",
+			"-->",
+			"<!--",
+			"width",
+			"<a class=\"btn btn-xs btn-danger\" title=\"Delete\" data-toggle=\"popover\" class=\"delete\" data-original-title=\"Delete\" href=\"javascript:;\">",
+			"1px",
+			"-1px",
+			"<a class=\"btn btn-xs btn-default\" title=\"Message\" data-toggle=\"popover\" class=\"message\" data-original-title=\"Message\" href=\"javascript:;\">\n														<span class=\"glyphicon glyphicon-envelope\"></span><span class=\"button-desc\">Message</span>\n													</a>",
+			"img-responsive\"/>\n										</a>\n									</div>",
+			"<div class=\"col-xs-2 friend\">\n										<div class=\"row\">",
+			"<div class=\"col-xs-2 friend\">",
+			"<span class=\"button-desc\">Remove</span>",
+			"2",
+			"5",
+			"ease-in-out",
+			"<span class=\"glyphicon glyphicon-remove\"></span>",
+			"<span class=\"glyphicon glyphicon-envelope\"></span>",
+			"<div class=\"col-xs-12\">\n												<a class=\"btn btn-xs btn-default\"",
+			"<div class=\"col-xs-1\">\n												<a",
+			"col-xs-10",
+			"<a class=\"btn btn-xs btn-default\" title=\"Message\" data-toggle=\"popover\" class=\"message\" data-original-title=\"Message\" href=\"javascript:;\">\n													<span class=\"glyphicon glyphicon-envelope\"></span>\n												</a>",
+			"<div class=\"col-xs-1\">\n												<a class=\"btn btn-xs btn-danger\" title=\"Delete\" data-toggle=\"popover\" class=\"delete\" data-original-title=\"Delete\" href=\"javascript:;\">\n													<span class=\"glyphicon glyphicon-remove\"></span>\n												</a>\n											</div>",
+			"<a class=\"btn btn-xs btn-danger\" title=\"Delete\" data-toggle=\"popover\" class=\"delete\" data-original-title=\"Delete\" href=\"javascript:;\">\n													<span class=\"glyphicon glyphicon-remove\"></span>\n												</a>",
+			"<a class=\"btn btn-xs btn-default\" title=\"Delete\"",
+			"<div class=\"col-xs-1\">\n												<a class=\"btn btn-xs btn-default\" title=\"Message\" data-toggle=\"popover\" class=\"message\" data-original-title=\"Message\" href=\"javascript:;\">\n													<span class=\"glyphicon glyphicon-envelope\"></span>\n												</a>\n											</div>\n											<div class=\"col-xs-1\">\n												<a class=\"btn btn-xs btn-default\" title=\"Delete\" data-toggle=\"popover\" class=\"delete\" data-original-title=\"Delete\" href=\"javascript:;\">\n													<span class=\"glyphicon glyphicon-remove\"></span>\n												</a>\n											</div>",
+			"<div class=\"col-xs-1\">\n												<a class=\"btn btn-xs btn-default\" title=\"Delete\" data-toggle=\"popover\" class=\"delete\" data-original-title=\"Delete\" href=\"javascript:;\">\n													<span class=\"glyphicon glyphicon-remove\"></span>\n												</a>\n											</div>",
+			"<a href=\"javascript:;\">\n											<img src=\"img/friend.png\" alt=\"Nathan\" title=\"Nathan\" class=\"friend-image img-responsive\"/>\n										</a>",
+			"col-xs-2 friend",
+			"col-xs-2",
+			"col-xs-2 friend thumbnail",
+			"<div class=\"col-xs-2 friend\">",
+			"<a href=\"javascript:;\">\n											<",
+			"<a href=\"javascript:;\">",
+			"<a href=\"javascript:;\">\n											<img ",
+			"<a href=\"javascript:;\">",
+			"img-responsive\"/></a>",
+			"<img src=\"img/friend.png\" alt=\"Alice\" title=\"Alice\" class=\"friend-image img-responsive\"/></a>",
+			"<a title=\"Delete\" data-toggle=\"popover\" class=\"delete\" data-original-title=\"Delete\" href=\"javascript:;\">\n													<span class=\"glyphicon glyphicon-remove\"></span>\n												</a>",
+			"<a title=\"Message\" data-toggle=\"popover\" class=\"message\" data-original-title=\"Message\" href=\"javascript:;\">",
+			"h4",
+			"<h2>",
+			"h2",
+			"<img src=\"img/delete.png\" />",
+			"<img src=\"img/message.png\" />",
+			"h2",
+			"<img src=\"img/delete.png\" /></a>",
+			"<img src=\"img/message.png\" /></a>",
+			"6",
+			"width=\"120\" height=\"120\" ",
+			"3",
+			"col-xs-2",
+			"wp-prev",
+			"profile",
+			"col-xs-2profile",
+			"col-sm-1",
+			"col-sm-6",
+			"col-sm-2 ",
+			"col-6",
+			"col-1",
+			"col-lg-",
+			"col-md",
+			"col-sm-",
+			"col-sm-/[a-z]/",
+			"col-sm-[a-z]",
+			"col-2",
+			"<br />",
+			"                    <br />",
+			"6",
+			"bfh-selectbox",
+			"bfh",
+			"4",
+			"columnsNoMargin",
+			"flags.png",
+			"data-relevancy-booster",
+			"data-alternative-spellings",
+			"tabindex=\"-1\"",
+			"textarea",
+			"select",
+			"input",
+			"select",
+			"wp",
+			"<a href=\"#\"  rel=\"popover-add\" class=\"interact-button button-add btn btn-primary\"><span class=\"glyphicon glyphicon-user\"></span><span class=\"glyphicon glyphicon-plus\"></span></a>",
+			"										<a href=\"#\"  rel=\"popover-add\" class=\"interact-button button-add btn btn-primary\"><span class=\"glyphicon glyphicon-user\"></span><span class=\"glyphicon glyphicon-plus\"></span></a>",
+			"<input type=\"button\" value=\"Save\" class=\"interact-button button-save btn btn-primary\">",
+			"wp",
+			"check",
+			"25px",
+			"100px",
+			"200",
+			"transform: rotate(360deg);",
+			"-webkit-tra",
+			"transform: rotate(0deg);",
+			")",
+			"0",
+			"wp-outer",
+			"logo",
+			"btn-xs",
+			"background-optional",
+			"data-toggle=\"tooltip\" ",
+			"150ms",
+			"hover",
+			"bottom",
+			"data-container=\"body\" ",
+			"xs",
+			"close",
+			"text-danger",
+			"2s",
+			"opacity .5s ease-in-out, max-height .5s ease-in-out, z-index .5s ease-in-out",
+			"max-height .5s ease-in-out",
+			"opacity .5s ease-in-out, max-height .5s ease-in-out",
+			"height",
+			"all 500ms ease-in-out",
+			"opacity",
+			"all",
+			"opacity",
+			"sibling",
+			"profile",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$ff2",
+			"$ff1",
+			"$ff2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 98.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "uniformity.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

@@ -1,0 +1,44 @@
+.introduction{
+	max-width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.title{
+	margin-bottom: 0;
+	font-size: 4em;
+	font-weight: 700;
+}
+
+.uniformity{
+	text-align: center;
+}
+
+.uniformity__username{
+	display: inline-block;
+	position: relative;
+	font-size: 3.2rem;
+	margin-top: 0;
+
+	&:before{
+		content: "";
+		position: absolute;
+		right: 100%;
+	}
+}
+
+.uniformity__button{
+	text-decoration: none;
+	font-size: 4.8rem;
+	color: inherit;
+}
+
+.uniformity__button-twitter{
+	color: #55acee;
+	@include prefix("@", $color: #55acee);
+}
+
+.uniformity__button-facebook{
+	color: #3b5999;
+	@include prefix("/", $color: #3b5999);
+}
