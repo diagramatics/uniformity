@@ -68,6 +68,11 @@
 	@include prefix("+", $color: #dd4b39);
 }
 
+.uniformity__button-foursquare{
+	color: #0cbadf;
+	@include prefix("", $color: #0072b1);
+}
+
 .uniformity__button-github{
 	color: #333;
 	@include prefix("", #333, #f3f3f3);

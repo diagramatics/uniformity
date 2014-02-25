@@ -586,6 +586,28 @@ body {
   animation: suffix 0.5s ease-in-out;
 }
 
+.uniformity__button-foursquare {
+  color: #0cbadf;
+}
+.uniformity__button-foursquare:hover ~ .uniformity__username {
+  background: inherit;
+  color: #0072b1;
+}
+.uniformity__button-foursquare:hover ~ .uniformity__username:before {
+  content: "";
+  background: inherit;
+  color: #0072b1;
+  -webkit-animation: prefix 0.5s ease-in-out;
+  animation: prefix 0.5s ease-in-out;
+}
+.uniformity__button-foursquare:hover ~ .uniformity__username:after {
+  content: "";
+  background: inherit;
+  color: #0072b1;
+  -webkit-animation: suffix 0.5s ease-in-out;
+  animation: suffix 0.5s ease-in-out;
+}
+
 .uniformity__button-github {
   color: #333;
 }
