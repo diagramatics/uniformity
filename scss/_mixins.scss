@@ -1,6 +1,6 @@
 //An easier mixin to prefix the username
 // Three arguments: the prefix (such as @, + etc.), the background color, and the text color itself
-@mixin prefix($prefix: "", $bg: inherit, $color: inherit){
+@mixin prefix($prefix: "", $bg: inherit, $color: inherit, $suffix: ""){
 	&:hover{
 		~ .uniformity__username{
 			@content;
@@ -9,6 +9,25 @@
 
 			&:before{
 				content: $prefix;
+				@if ($prefix != ""){
+					// If there's no prefix, don't use the extra padding
+					padding: 2px 0 2px 10px;
+				}
+				background: $bg;
+				color: $color; // Needed to prevent color animation bug – remove this and the color will be applied after transition
+
+				animation: prefix 0.5s ease-in-out 0 1 forwards;
+			}
+			&:after{
+				content: $suffix;
+				@if ($suffix != ""){
+					// If there's no suffix, don't use the extra padding
+					padding: 2px 10px 2px 0;
+				}
+				background: $bg;
+				color: $color; // Needed to prevent color animation bug – remove this and the color will be applied after transition
+
+				animation: suffix 0.5s ease-in-out 0 1 forwards;
 			}
 		}
 	}
