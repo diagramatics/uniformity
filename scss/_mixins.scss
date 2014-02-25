@@ -16,7 +16,7 @@
 				background: $bg;
 				color: $color; // Needed to prevent color animation bug – remove this and the color will be applied after transition
 
-				animation: prefix 0.5s ease-in-out 0 1 forwards;
+				animation: prefix 0.5s ease-in-out;
 			}
 			&:after{
 				content: $suffix;
@@ -27,7 +27,7 @@
 				background: $bg;
 				color: $color; // Needed to prevent color animation bug – remove this and the color will be applied after transition
 
-				animation: suffix 0.5s ease-in-out 0 1 forwards;
+				animation: suffix 0.5s ease-in-out;
 			}
 		}
 	}
