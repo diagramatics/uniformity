@@ -608,6 +608,29 @@ body {
   animation: suffix 0.5s ease-in-out;
 }
 
+.uniformity__button-instagram {
+  color: #3f729b;
+}
+.uniformity__button-instagram:hover ~ .uniformity__username {
+  background: inherit;
+  color: #3f729b;
+}
+.uniformity__button-instagram:hover ~ .uniformity__username:before {
+  content: "@";
+  padding: 2px 0 2px 10px;
+  background: inherit;
+  color: #3f729b;
+  -webkit-animation: prefix 0.5s ease-in-out;
+  animation: prefix 0.5s ease-in-out;
+}
+.uniformity__button-instagram:hover ~ .uniformity__username:after {
+  content: "";
+  background: inherit;
+  color: #3f729b;
+  -webkit-animation: suffix 0.5s ease-in-out;
+  animation: suffix 0.5s ease-in-out;
+}
+
 .uniformity__button-github {
   color: #333;
 }

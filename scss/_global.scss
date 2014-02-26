@@ -73,6 +73,11 @@
 	@include prefix("", $color: #0072b1);
 }
 
+.uniformity__button-instagram{
+	color: #3f729b;
+	@include prefix("@", $color: #3f729b);
+}
+
 .uniformity__button-github{
 	color: #333;
 	@include prefix("", #333, #f3f3f3);
