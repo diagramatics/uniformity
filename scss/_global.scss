@@ -88,6 +88,11 @@
 	@include prefix("in/", #0e76a8, #fff);
 }
 
+.uniformity__button-email{
+	color: #4285f4;
+	@include prefix("ohai@", inherit, #4285f4, ".me");
+}
+
 .uniformity__button-web{
 	color: #f40924;
 	@include prefix("", inherit, #f40924, ".me");
