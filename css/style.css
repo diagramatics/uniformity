@@ -698,3 +698,26 @@ body {
   -webkit-animation: suffix 0.5s ease-in-out;
   animation: suffix 0.5s ease-in-out;
 }
+
+.promote {
+  font-size: 2rem;
+  text-align: center;
+}
+.promote a {
+  text-decoration: none;
+  color: inherit;
+}
+.promote a:hover {
+  text-decoration: underline;
+}
+.promote a:hover i {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+.promote i {
+  margin: 0 10px;
+  font-size: 2em;
+  vertical-align: middle;
+  -webkit-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}

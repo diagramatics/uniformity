@@ -92,3 +92,27 @@
 	color: #f40924;
 	@include prefix("", inherit, #f40924, ".me");
 }
+
+.promote{
+	font-size: 2rem;
+	text-align: center;
+
+	a{
+		text-decoration: none;
+		color: inherit;
+
+		&:hover{
+			text-decoration: underline;
+			i{
+				transform: rotate(360deg);
+			}
+		}
+	}
+
+	i{
+		margin: 0 10px;
+		font-size: 2em;
+		vertical-align: middle;
+		transition: all 500ms ease-in-out;
+	}
+}
